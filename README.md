@@ -102,8 +102,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1920" height="1051" alt="kali linux  Running  - Oracle VirtualBox 08-09-2025 08_46_20" src="https://github.com/user-attachments/assets/9a99f42e-c199-4668-8e45-337eca28beea" />
 
 
-### httprint :
-<img width="630" height="208" alt="481471617-b671f174-01c3-4154-8801-e1b7f21dae74" src="https://github.com/user-attachments/assets/d604bbc6-f7a4-49bf-be01-5a24160279bf" />
 
 
 ### TCP traceroute :
